@@ -11,4 +11,4 @@
 
 
 
-`池化思想` 在 Android 中也有应用，这种缓存对象实例的池化思想在 Android 中也有应用，比如 Handler 中使用到的 Message 消息池。
+`池化思想` 在 Java 中广泛应用，这种缓存对象实例的池化思想在 Android 中也有应用，比如 Handler 中使用到的 Message 消息池。
